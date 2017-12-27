@@ -1,1 +1,0 @@
-An app to integrate with spotify
